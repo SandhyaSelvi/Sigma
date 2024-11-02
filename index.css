@@ -1,0 +1,105 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  padding-top: 0.5%;
+  margin: 1% 5% 1% 5%;
+}
+
+.fullname {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.name {
+  color: brown;
+}
+
+button {
+  border: 10%;
+  border-radius: 40%;
+  padding: 0 3% 0 3%;
+}
+
+.main-div {
+  width: 100%;
+  float: left;
+  background-image: linear-gradient(white, pink);
+}
+.main-content {
+  margin: 3% 5%;
+  width: 50%;
+  float: left;
+}
+
+.tick {
+  padding: 0.5%;
+  color: goldenrod;
+}
+
+.heading {
+  font-size: xxx-large;
+  font-weight: bolder;
+  margin-bottom: 5%;
+}
+
+.girl-image {
+  width: 25%;
+}
+
+.second {
+  display: flex;
+  align-items: flex-start;
+}
+
+.video {
+  margin-left: 20%;
+  padding-top: 1%;
+}
+
+.para {
+  margin-bottom: 5%;
+}
+
+.comping {
+  padding: 2.5%;
+  margin: 0% 5% 0% 5%;
+  border: 5%;
+}
+
+.lower-content {
+  padding: 1% 5%;
+  width: 80%;
+  display:flex;
+  flex-direction:row
+}
+
+.service {
+  color: goldenrod;
+}
+
+.resources {
+  font-size: xxx-large;
+  font-weight: bold;
+}
+
+.main-lower {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-around;
+  width: 50%;
+  padding-top: 4%;
+}
+
+.second-lower{
+  width: 19%;
+}
+
+.res{ 
+  width:35%;
+}
